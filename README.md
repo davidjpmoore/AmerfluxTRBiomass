@@ -53,7 +53,7 @@ UB: upper 95% confidence interval
 
 
 ********
-HEADER: These three files were produced with the code found at: https://github.com/davidjpmoore/Calloc_TreeRingNPP/doe_all_sites
+HEADER: These three files were produced with the code found at: https://github.com/davidjpmoore/Calloc_TreeRingNPP/
 
 
 ********
